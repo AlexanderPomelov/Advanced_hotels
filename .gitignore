@@ -2,3 +2,4 @@
 crud_express/.env
 crud_hotel_typeorm/.env
 .DS_Store
+Auth_microservice/.development.env
